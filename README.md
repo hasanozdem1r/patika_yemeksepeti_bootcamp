@@ -1,6 +1,6 @@
 # Yemeksepeti & Patika Web Development Bootcamp
 
-![bootcamo_image](https://uploads-ssl.webflow.com/6097e0eca1e875de53031ff6/61838fe9e1ba4058be3d175d_yemeksepeti%20tw.png)
+![bootcamo_image](docs/ys_patika.png)
 
 
 ## Bootcamp Details
